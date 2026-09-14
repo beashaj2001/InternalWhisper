@@ -1,0 +1,20 @@
+{
+    "hotkey": "ctrl+alt",
+    "mode": "push_to_talk",
+    "backend": "local",
+    "openai_api_key": "",
+    "groq_api_key": "",
+    "openai_model": "whisper-1",
+    "groq_model": "whisper-large-v3-turbo",
+    "local_model": "base",
+    "audio_device": null,
+    "auto_paste": true,
+    "play_sounds": true,
+    "restore_clipboard": true,
+    "paste_delay_ms": 100,
+    "ai_formatting": true,
+    "custom_prompt": "Clean up transcription, add proper punctuation and capitalization, remove filler words (um, uh, like), and output clean formatted text.",
+    "hud_position": "top_center",
+    "dark_mode": true,
+    "history_max_items": 100
+}
